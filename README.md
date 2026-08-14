@@ -2,12 +2,12 @@
   <img src="./assets/banner-caretechmath.png" alt="CareTechMath — Matemática, Tecnologia, Inteligência Artificial e Educação" width="100%">
 </p>
 
-# 👨‍🏫 Prof. Me. Vinicius Alves Rodrigues
-
-### 📐 Matemática • 💻 Computação • 🤖 Inteligência Artificial • 🎓 Educação
+<p align="center">
+  <b>Professor • Pesquisador • Matemática • Computação • Inteligência Artificial • Educação</b>
+</p>
 
 <p align="center">
-  <b>Matemática como formação. Tecnologia como ferramenta. Educação como propósito.</b>
+  Matemática como formação. Tecnologia como ferramenta. Educação como propósito.
 </p>
 
 ---
