@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner-caretechmath.png" alt="CareTechMath — Matemática, Tecnologia, Inteligência Artificial e Educação" width="100%">
+</p>
+
 # 👨‍🏫 Prof. Me. Vinicius Alves Rodrigues
 
 ### 📐 Matemática • 💻 Computação • 🤖 Inteligência Artificial • 🎓 Educação
