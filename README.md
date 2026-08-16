@@ -10,6 +10,21 @@
   Matemática como formação. Tecnologia como ferramenta. Educação como propósito.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/profviniciusalvesrodrigues/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="http://lattes.cnpq.br/3663513244461161">
+    <img src="https://img.shields.io/badge/Lattes-0072B1?style=flat-square" alt="Currículo Lattes">
+  </a>
+  <a href="https://orcid.org/0009-0004-2208-1996">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+  <a href="https://www.youtube.com/channel/UCyg-p81jBk_9ib3uwJPvtDw">
+    <img src="https://img.shields.io/badge/YouTube-CareTechMath-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube CareTechMath">
+  </a>
+</p>
+
 ---
 
 ## 👋 Olá! Bem-vindo ao CareTechMath
@@ -78,7 +93,7 @@ Ao longo da minha trajetória, passei a atuar na **Educação Básica, Educaçã
 * 🚀 Empreendedorismo;
 * 🎓 Formação de professores.
 
-Atualmente, também atuo como docente no **Ensino Superior**, ministrando componentes curriculares relacionados à Computação e Tecnologia.
+Atualmente, também atuo como docente no **Ensino Superior na Universidade Cruzeiro do Sul**, ministrando componentes curriculares relacionados à Computação e Tecnologia, com atuação em áreas como Programação, Desenvolvimento Web e formação profissional.
 
 ---
 
