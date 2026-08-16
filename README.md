@@ -341,6 +341,10 @@ A Matemática como base da minha formação acadêmica, profissional e da maneir
 
 <p align="left">
 
+<a href="https://www.linkedin.com/in/profviniciusalvesrodrigues/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Prof.%20Vinicius%20Alves%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Prof. Vinicius Alves Rodrigues">
+</a>
+
 <a href="http://lattes.cnpq.br/3663513244461161" target="_blank">
   <img src="https://img.shields.io/badge/Currículo%20Lattes-0072B1?style=for-the-badge&logo=academia&logoColor=white" alt="Currículo Lattes">
 </a>
@@ -354,6 +358,8 @@ A Matemática como base da minha formação acadêmica, profissional e da maneir
 </a>
 
 </p>
+
+---
 
 ---
 
